@@ -1,0 +1,11 @@
+name = "Utils"
+uuid = "d27b9256-8790-43d5-8e79-b14e8adb5960"
+authors = ["Jimbo-Coder <maxrizzo99@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+InverseFunctions = "3587e190-3f89-42d0-90ee-14403ec27112"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
